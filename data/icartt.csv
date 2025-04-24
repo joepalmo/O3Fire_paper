@@ -1,0 +1,452 @@
+CoreName,Definition,Chemical Formula,CAS Number,Specificity,Category
+H2,Hydrogen,H2,1333-74-0,S,"Oxygen Species, Hydrogen Species and Radicals"
+O2,Oxygen,O2,7782-44-7,S,"Oxygen Species, Hydrogen Species and Radicals"
+O2toN2ratio,Ratio of Oxygen to Nitrogen,N/A,N/A,NA,"Oxygen Species, Hydrogen Species and Radicals"
+APO,Atmospheric Potential Oxygen (O2 + 1.1 x (CO2 - 350)),N/A,N/A,NA,"Oxygen Species, Hydrogen Species and Radicals"
+HO2,Hydroperoxy radical,HO2,3170-83-0,S,"Oxygen Species, Hydrogen Species and Radicals"
+CH3O2,Methylperoxy radical,CH3O2,2143-58-0,S,"Oxygen Species, Hydrogen Species and Radicals"
+RO2,Sum of Organic Peroxy radicals,N/A,N/A,M,"Oxygen Species, Hydrogen Species and Radicals"
+HO2AndRO2,Sum of Hydroperoxy radical and Organic Peroxy radicals,N/A,N/A,M,"Oxygen Species, Hydrogen Species and Radicals"
+OH,Hydroxyl radical,OH,3352-57-6,S,"Oxygen Species, Hydrogen Species and Radicals"
+OHR,OH Reactivity - proxy for OH loss frequency or a measure of OH oxidation capacity,N/A,N/A,NA,"Oxygen Species, Hydrogen Species and Radicals"
+H2O2,Hydrogen peroxide,H2O2,7722-84-1,S,"Oxygen Species, Hydrogen Species and Radicals"
+O3,Ozone,O3,10028-15-6,S,"Oxygen Species, Hydrogen Species and Radicals"
+O1D,O(1D),O,,S,"Oxygen Species, Hydrogen Species and Radicals"
+O3P,O(3P),O,,S,"Oxygen Species, Hydrogen Species and Radicals"
+H,Hydrogen atom,H,12385-13-6,S,"Oxygen Species, Hydrogen Species and Radicals"
+HCO,Formyl radical,HCO,2597-44-6,S,"Oxygen Species, Hydrogen Species and Radicals"
+CH3,Methyl radical,CH3,2229-07-4,S,"Oxygen Species, Hydrogen Species and Radicals"
+CH3O,Methoxy radical,CH3O,2143-68-2,S,"Oxygen Species, Hydrogen Species and Radicals"
+C2H5O,Ethoxy radical,C2H5O,2154-50-9,S,"Oxygen Species, Hydrogen Species and Radicals"
+CH3COO2,Peroxyacetyl radical,C2H3O3,36709-10-1,S,"Oxygen Species, Hydrogen Species and Radicals"
+CH3COO,Acetoxy radical,C2H3O2,N/A,S,"Oxygen Species, Hydrogen Species and Radicals"
+CH3CH2,Ethyl radical,C2H5,2025-56-1,S,"Oxygen Species, Hydrogen Species and Radicals"
+CH3CO,Acetyl radical,C2H3O,3170-69-2,S,"Oxygen Species, Hydrogen Species and Radicals"
+NH3,Ammonia,NH3,7664-41-7,S,Nitrogen Species
+NF3,Nitrogen trifluoride,NF3,7783-54-2,S,Nitrogen Species
+N2O,Nitrous oxide,N2O,10024-97-2,S,Nitrogen Species
+NO,Nitric oxide,NO,10102-43-9,S,Nitrogen Species
+NO2,Nitrogen dioxide,NO2,10102-44-0,S,Nitrogen Species
+NO3,Nitrate radical,NO3,12033-49-7,S,Nitrogen Species
+N2O5,Nitrogen pentoxide,N2O5,10102-03-01,S,Nitrogen Species
+HNO2,Nitrous acid,HNO2,7782-77-6,S,Nitrogen Species
+HNO3,Nitric acid,HNO3,7697-37-2,S,Nitrogen Species
+HNO4,Peroxynitric acid,HNO4,26404-66-0,S,Nitrogen Species
+HCN,Hydrogen cyanide,HCN,74-90-8,S,Nitrogen Species
+CH3CN,Acetonitrile,C2H3N,75-05-8,S,Nitrogen Species
+HNCO,Isocyanic acid,HNCO,75-13-8,S,Nitrogen Species
+Acrylonitrile,Acrylonitrile,C3H3N,107-13-1,S,Nitrogen Species
+MeAcrylonitrile,Methylacrylonitrile,C4H5N,126-98-7,S,Nitrogen Species
+PropNitrile,Propanenitrile,C3H5N,107-12-0,S,Nitrogen Species
+BenzNitrile,Benzonitrile,C7H5N,100-47-0,S,Nitrogen Species
+Pyrrole,Pyrrole,C4H5N,109-97-7,S,Nitrogen Species
+C4H5N,Sum of C4H5N isomers,C4H5N,N/A,M,Nitrogen Species
+Pyridine,Pyridine,C5H5N,110-86-1,S,Nitrogen Species
+Nitromethane,Nitromethane,CH3NO2,75-52-5,S,Nitrogen Species
+ClNO2,Nitryl chloride,ClNO2,13444-90-1,S,Nitrogen Species
+ClONO2,Chlorine nitrate,ClNO3,14545-72-3,S,Nitrogen Species
+MeONO2,Methyl nitrate,CH3NO3,598-58-3,S,Nitrogen Species
+EthONO2,Ethyl nitrate,C2H5NO3,625-58-1,S,Nitrogen Species
+nPropONO2,n-Propyl nitrate,C3H7NO3,627-13-4,S,Nitrogen Species
+iPropONO2,Isopropyl nitrate,C3H7NO3,1712-64-7,S,Nitrogen Species
+nButONO2,n-Butyl nitrate,C4H9NO3,928-45-0,S,Nitrogen Species
+x2ButONO2,2-Butyl nitrate,C4H9NO3,924-52-7,S,Nitrogen Species
+iButONO2,Isobutyl nitrate,C4H9NO3,543-29-3,S,Nitrogen Species
+iButONO2And2ButON O2,Sum of Isobutyl nitrate and 2- Butyl nitrate,C4H9NO3,N/A,M,Nitrogen Species
+tButONO2,t-Butyl nitrate,C4H9NO3,0926-05-06,S,Nitrogen Species
+nPentONO2,n-Pentyl nitrate,C5H11NO3,1002-16-0,S,Nitrogen Species
+x2PentONO2,2-Pentyl nitrate,C5H11NO3,21981-48-6,S,Nitrogen Species
+x3PentONO2,3-Pentyl nitrate,C5H11NO3,N/A,S,Nitrogen Species
+iPentONO2,Isopentyl nitrate,C5H11NO3,543-87-3,S,Nitrogen Species
+x3Me2ButONO2,3-Methyl-2-butyl nitrate,C5H11NO3,N/A,S,Nitrogen Species
+x2OxoEthONO2,2-Oxoethyl nitrate,C2H3NO4,72673-15-5,S,Nitrogen Species
+AcetylONO2,Acetyl nitrate,C2H3NO4,591-09-3,S,Nitrogen Species
+PAN,Peroxyacetyl nitrate,C2H3NO5,2278-22-0,S,Nitrogen Species
+APAN,Peroxyacryloyl nitrate,C3H3NO5,N/A,S,Nitrogen Species
+PPN,Peroxylpropionyl nitrate,C3H5NO5,5796-89-4,S,Nitrogen Species
+PBN,Peroxybutyryl nitrate,C4H7NO5,N/A,S,Nitrogen Species
+PiBN,Peroxyisobutyric nitrate,C4H7NO5,N/A,S,Nitrogen Species
+PPeN,Peroxypentyryl nitrate,C5H9NO5,N/A,M,Nitrogen Species
+PBzN,Peroxybenzoyl nitrate,C7H5NO5,N/A,S,Nitrogen Species
+MoPN,Methoxy Peroxyacetyl nitrate,C2H6NO6,N/A,S,Nitrogen Species
+MPAN,Peroxymethacryloyl nitrate,C4H5NO5,N/A,S,Nitrogen Species
+PNs,Sum of Peroxynitrates,N/A,N/A,M,Nitrogen Species
+ANs,Sum of Akylnitrates,N/A,N/A,M,Nitrogen Species
+NOx,Nitrogen oxides (NO + NO2),N/A,N/A,M,Nitrogen Species
+NOy,Total Reactive Nitrogen,N/A,N/A,M,Nitrogen Species
+NOyasNO2,Total Reactive Nitrogen Converted to NO2,N/A,N/A,M,Nitrogen Species
+NOyasNO,Total Reactive Nitrogen Converted to NO,N/A,N/A,M,Nitrogen Species
+x2HydEthONO2,2-Hydroxyethyl nitrate,C2H5NO4,16051-48-2,S,Nitrogen Species
+C3H7NO4,Sum of C3H7NO4 Hydroxy nitrates,C3H7NO4,N/A,M,Nitrogen Species
+C3H5NO4,Sum of C3H5NO4 Carbonyl nitrates,C3H5NO4,N/A,M,Nitrogen Species
+C4H7NO4,Sum of C4H7NO4 Isomers,C4H7NO4,N/A,M,Nitrogen Species
+C4H7NO5,"Sum of Isomers, including C4 Hydroxy Carbonyl Nitrates",C4H7NO5,N/A,M,Nitrogen Species
+C4H9NO4,Sum of C4H9NO4 Hydroxy nitrates,C4H9NO4,N/A,M,Nitrogen Species
+ISOPN,Sum of Isoprene Hydroxy Nitrate Isomers,C5H9NO4,N/A,M,Nitrogen Species
+C5H9NO5,"Sum of C5H9NO5 Isomers, including Hydroperoxy Nitrates of Isoprene",C5H9NO5,N/A,M,Nitrogen Species
+NitroCatechol,"Nitrocatechol, aka 4- nitrocatechol",C6H5NO4,3316-09-04,S,Nitrogen Species
+NitroGuaiacol,"Nitroguaiacol, including 4- Nitroguaiacol and 5- Nitroguaiacol",C7H7NO4,N/A,M,Nitrogen Species
+x4NitroGuaiacol,4-Nitroguaiacol,C7H7NO4,3251-56-7,S,Nitrogen Species
+x5NitroGuaiacol,5-Nitroguaiacol,C7H7NO4,636-93-1,S,Nitrogen Species
+C10H30O5Si5,Decamethylcyclopentasiloxane,C10H30O5Si5,541-02-6,S,Silicon Species
+CS2,Carbon disulfide,CS2,75-15-0,S,Sulfur Species
+CH3SH,Methanethiol,CH4S,74-93-1,S,Sulfur Species
+DMS,Dimethyl sulfide,C2H6S,75-18-3,S,Sulfur Species
+DMDS,Dimethyl disulfide,C2H6S2,624-92-0,S,Sulfur Species
+DMSO,Dimethyl sulfoxide,C2H6OS,67-68-5,S,Sulfur Species
+DMSO2,Dimethyl sulfone,C2H6O2S,67-71-0,S,Sulfur Species
+H2SO4,Sulfuric acid,H2SO4,7664-93-9,S,Sulfur Species
+MSA,Methanesulfonic acid,CH4O3S,75-75-2,S,Sulfur Species
+OCS,Carbonyl sulfide,OCS,463-58-1,S,Sulfur Species
+SF6,Sulfur hexafluoride,SF6,2551-62-4,S,Sulfur Species
+C2H4O3S,Sum of C2H4O3S isomers,C2H4O3S,N/A,M,Sulfur Species
+SO2F2,Sulfuryl fluoride,SO2F2,2699-79-8,S,Sulfur Species
+SO2,Sulfur dioxide,SO2,7446-09-05,S,Sulfur Species
+HPMTF,Hydroperoxymethyl thioformate,C2H3O3S,N/A,S,Sulfur Species
+Cl,Chlorine atom,Cl,22537-15-1,S,Halogens and Halogenates
+HCl,Hydrogen chloride,HCl,7647-01-0,S,Halogens and Halogenates
+Cl2,Chlorine,Cl2,7782-50-5,S,Halogens and Halogenates
+ClO,Chlorine monoxide,ClO,14989-30-1,S,Halogens and Halogenates
+HOCl,Hypochlorous acid,HOCl,7790-92-3,S,Halogens and Halogenates
+Br,Bromine atom,Br,10097-32-2,S,Halogens and Halogenates
+HBr,Hydrogen bromide,HBr,10035-10-6,S,Halogens and Halogenates
+Br2,Bromine,Br2,7726-95-6,S,Halogens and Halogenates
+BrCl,Bromine chloride,BrCl,13863-41-7,S,Halogens and Halogenates
+BrO,Bromine monoxide,BrO,15656-19-6,S,Halogens and Halogenates
+BrONO,Bromine nitrite,BrNO2,N/A,S,Halogens and Halogenates
+BrONO2,Bromine nitrate,BrNO3,40423-14-1,S,Halogens and Halogenates
+BrNO2,Bromine nitrite,BrNO2,N/A,S,Halogens and Halogenates
+HOBr,Hypobromous acid,HOBr,13517-11-8,S,Halogens and Halogenates
+Br2AndHOBr,Sum of HOBr and Br2,N/A,N/A,M,Halogens and Halogenates
+Br2O,Dibromine monoxide,Br2O,21308-80-5,S,Halogens and Halogenates
+BrCN,Cyanogen Bromide,BrCN,506-68-3,S,Halogens and Halogenates
+I,Iodine atom,I,14362-44-8,S,Halogens and Halogenates
+I2,Iodine,I2,7553-56-2,S,Halogens and Halogenates
+IO,Iodine monoxide,IO,14696-98-1,S,Halogens and Halogenates
+HOI,Hypoiodous acid,HIO,14332-21-9,S,Halogens and Halogenates
+CH3COOCl,Chloroacetic acid,C2H3ClO2,79-11-8,S,Halogens and Halogenates
+CH3Cl,Chloromethane,CH3Cl,74-87-3,S,Halogens and Halogenates
+CH2Cl2,Dichloromethane,CH2Cl2,75-09-2,S,Halogens and Halogenates
+CHCl3,Chloroform,CHCl3,67-66-3,S,Halogens and Halogenates
+CCl4,Tetrachloromethane,CCl4,56-23-5,S,Halogens and Halogenates
+C2H5Cl,Chloroethane,C2H5Cl,75-00-3,S,Halogens and Halogenates
+CH3CHCl2,"1,1-Dichloroethane",C2H4Cl2,75-34-3,S,Halogens and Halogenates
+CH2ClCH2Cl,"1,2-Dichloroethane",C2H4Cl2,107-06-02,S,Halogens and Halogenates
+CH3CCl3,"Methyl chloroform; 1,1,1- Trichloroethane",C2H3Cl3,71-55-6,S,Halogens and Halogenates
+CHCl2CH2Cl,"1,1,2-Trichloroethane",C2H3Cl3,79-00-5,S,Halogens and Halogenates
+CHCl2CHCl2,"1,1,2,2-Tetrachloroethane",C2H2Cl4,79-34-5,S,Halogens and Halogenates
+C2H3Cl,Chloroethene,C2H3Cl,75-01-4,S,Halogens and Halogenates
+tCHClCHCl,"trans-1,2-Dichloroethene",C2H2Cl2,156-60-5,S,Halogens and Halogenates
+cCHClCHCl,"cis-1,2-Dichloroethene",C2H2Cl2,156-59-2,S,Halogens and Halogenates
+CCl2CH2,"1,1-Dichloroethene",C2H2Cl2,75-35-4,S,Halogens and Halogenates
+C2HCl3,Trichloroethene,C2HCl3,79-01-6,S,Halogens and Halogenates
+C2Cl4,Tetrachloroethene,C2Cl4,127-18-4,S,Halogens and Halogenates
+x12DiClPropane,"1,2-Dichloropropane",C3H6Cl2,78-87-5,S,Halogens and Halogenates
+x123TriClPropane,"1,2,3-Trichloropropane",C3H5Cl3,96-18-4,S,Halogens and Halogenates
+x13DiClPropene,"1,3-Dichloropropene",C3H4Cl2,542-75-6,S,Halogens and Halogenates
+x23DiCl1Propene,"2,3-Dichloro-1-propene",C3H4Cl2,78-88-6,S,Halogens and Halogenates
+HexClButadiene,Hexachlorobutadiene,C4Cl6,87-68-3,S,Halogens and Halogenates
+ClBenzene,Chlorobenzene,C6H5Cl,108-90-7,S,Halogens and Halogenates
+pDiClBenzene,"1,4-Dichlorobenzene",C6H4Cl2,106-46-7,S,Halogens and Halogenates
+mDiClBenzene,"1,3-Dichlorobenzene",C6H4Cl2,541-73-1,S,Halogens and Halogenates
+oDiClBenzene,"1,2-Dichlorobenzene-",C6H4Cl2,95-50-1,S,Halogens and Halogenates
+x124TriClBenzene,"1,2,4-Trichlorobenzene",C6H3Cl3,120-82-1,S,Halogens and Halogenates
+x123TriClBenzene,"1,2,3-Trichlorobenzene",C6H3Cl3,87-61-6,S,Halogens and Halogenates
+x135TriClBenzene,"1,3,5-Trichlorobenzene",C6H3Cl3,108-70-3,S,Halogens and Halogenates
+aClToluene,Benzyl chloride,C7H7Cl,100-44-7,S,Halogens and Halogenates
+oClToluene,1-Chloro-2-methylbenzene,C7H7Cl,95-49-8,S,Halogens and Halogenates
+pClToluene,1-Chloro-4-methylbenzene,C7H7Cl,95-49-8,S,Halogens and Halogenates
+mClToluene,1-Chloro-3-methylbenzene,C7H7Cl,108-41-8,S,Halogens and Halogenates
+CH3Br,Bromomethane,CH3Br,74-83-9,S,Halogens and Halogenates
+CH2Br2,Dibromomethane,CH2Br2,74-95-3,S,Halogens and Halogenates
+CHBr3,Bromoform,CHBr3,75-25-2,S,Halogens and Halogenates
+C2H5Br,Bromoethane,C2H5Br,74-96-4,S,Halogens and Halogenates
+CH2BrCH2Br,"1,2-Dibromoethane",C2H4Br2,106-93-4,S,Halogens and Halogenates
+nC3H7Br,n-Propyl bromide,C3H7Br,106-94-5,S,Halogens and Halogenates
+BrBenzene,Bromobenzene,C6H5Br,108-86-1,S,Halogens and Halogenates
+CH3I,Iodomethane,CH3I,74-88-4,S,Halogens and Halogenates
+CH2I2,Diiodomethane,CH2I2,75-11-6,S,Halogens and Halogenates
+C2H5I,Iodoethane,C2H5I,75-03-6,S,Halogens and Halogenates
+CH2BrCl,Bromochloromethane,CH2BrCl,74-97-5,S,Halogens and Halogenates
+CHBr2Cl,Dibromochloromethane,CHBr2Cl,124-48-1,S,Halogens and Halogenates
+CHBrCl2,Bromodichloromethane,CHBrCl2,75-27-4,S,Halogens and Halogenates
+CH2BrCHBrCH2Cl,"1,2-Dibromo-3-chloropropane",C3H5Br2Cl,96-12-8,S,Halogens and Halogenates
+CH2ClI,Chloroiodomethane,CH2ClI,593-71-5,S,Halogens and Halogenates
+CH2BrI,Bromoiodomethane,CH2BrI,557-68-6,S,Halogens and Halogenates
+CFC11,Trichlorofluoromethane,CCl3F,75-69-4,S,Halogens and Halogenates
+CFC12,Dichlorodifluoromethane,CCl2F2,75-71-8,S,Halogens and Halogenates
+CFC13,Chlorotrifluoromethane,CClF3,75-72-9,S,Halogens and Halogenates
+CF4,Tetrafluoromethane,CF4,75-73-0,S,Halogens and Halogenates
+CFC112,"Tetrachloro-1,2-difluoroethane",C2Cl4F2,76-12-0,S,Halogens and Halogenates
+CFC113,"1,1,2-Trichlorotrifluoroethane",C2Cl3F3,76-13-1,S,Halogens and Halogenates
+CFC114,"1,2-Dichlorotetrafluoroethane",C2Cl2F4,76-14-2,S,Halogens and Halogenates
+CFC115,Chloropentafluoroethane,C2ClF5,76-15-3,S,Halogens and Halogenates
+C2F6,Hexafluoroethane,C2F6,76-16-4,S,Halogens and Halogenates
+pClBenzoTriF,1-Chloro-4- (trifluoromethyl)benzene (PCBTF),C7H4ClF3,98-56-6,S,Halogens and Halogenates
+H1202,Dibromodifluoromethane,CBr2F2,75-61-6,S,Halogens and Halogenates
+H1211,Bromochlorodifluoromethane,CBrClF2,353-59-3,S,Halogens and Halogenates
+H1301,Bromotrifluoromethane,CBrF3,75-63-8,S,Halogens and Halogenates
+H2402,"1,2-Dibromotetrafluoroethane",C2Br2F4,124-73-2,S,Halogens and Halogenates
+HCFC123,"1,1-Dichloro-2,2,2- trifluoroethane",C2HCl2F3,306-83-2,S,Halogens and Halogenates
+HCFC124,"1-Chloro-1,2,2,2- tetrafluoroethane",C2HClF4,2837-89-0,S,Halogens and Halogenates
+HCFC141b,"1,1-Dichloro-1-fluoroethane",C2H3Cl2F,1717-00-6,S,Halogens and Halogenates
+HCFC142b,"1-Chloro-1,1-difluoroethane",C2H3ClF2,75-68-3,S,Halogens and Halogenates
+HCFC133a,"1-Chloro-2,2,2-trifluoroethane",C2H2ClF3,75-88-7,S,Halogens and Halogenates
+HCFC21,Dichlorofluoromethane,CHCl2F,75-43-4,S,Halogens and Halogenates
+HCFC22,Chlorodifluoromethane,CHClF2,75-45-6,S,Halogens and Halogenates
+HFC125,Pentafluoroethane,C2HF5,354-33-6,S,Halogens and Halogenates
+HFC134a,"1,1,1,2-Tetrafluoroethane",C2H2F4,811-97-2,S,Halogens and Halogenates
+HFC143a,"1,1,1-Trifluoroethane",C2H3F3,420-46-2,S,Halogens and Halogenates
+HFC152a,"1,1-Difluoroethane",C2H4F2,75-37-6,S,Halogens and Halogenates
+C3F8,Octafluoropropane,C3F8,76-19-7,S,Halogens and Halogenates
+HFC23,Trifluoromethane,CHF3,75-46-7,S,Halogens and Halogenates
+HFC227ea,"1,1,1,2,3,3,3- Heptafluoropropane",C3HF7,431-89-0,S,Halogens and Halogenates
+HFC32,Difluoromethane,CH2F2,75-10-5,S,Halogens and Halogenates
+HFC365mfc,"1,1,1,3,3-Pentafluorobutane",C4H5F5,406-58-6,S,Halogens and Halogenates
+HFC236fa,"1,1,1,3,3,3-Hexafluoropropane",C3H2F6,690-39-1,S,Halogens and Halogenates
+CH4,Methane,CH4,74-82-8,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x13CH4,13CH4-Methane,13CH4,14762-74-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x14CH4,14CH4-Methane,14CH4,2772-68-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+CH3D,CH3D-Methane,CH3D,676-49-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Ethane,Ethane,C2H6,74-84-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Ethene,Ethene,C2H4,74-85-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Ethyne,Ethyne,C2H2,74-86-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Propane,Propane,C3H8,74-98-6,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Propene,Propene,C3H6,0115-07-01,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Propyne,Propyne,C3H4,74-99-7,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Propadiene,Propadiene,C3H4,463-49-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nButane,n-Butane,C4H10,106-97-8,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+iButane,Isobutane,C4H10,75-28-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+iButene,Isobutene,C4H8,0115-11-7,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Butene,1-Butene,C4H8,106-98-9,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+iButeneAnd1Butene,Sum of Isobutene and 1-Butene,C4H8,N/A,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+c2Butene,cis-2-Butene,C4H8,590-18-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+t2Butene,trans-2-Butene,C4H8,624-64-6,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+CycButane,Cyclobutane,C4H8,287-23-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x13Butadiene,"1,3-Butadiene",C4H6,106-99-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x12Butadiene,"1,2-Butadiene",C4H6,590-19-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Butyne,1-Butyne,C4H6,107-00-6,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x2Butyne,2-Butyne,C4H6,503-17-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Buten3yne,1-Buten-3-yne,C4H4,689-97-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x13Butadiyne,"1,3-Butadiyne",C4H2,460-12-8,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nPentane,n-Pentane,C5H12,109-66-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+iPentane,Isopentane,C5H12,78-78-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Neopentane,Neopentane,C5H12,463-82-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Pentene,1-Pentene,C5H10,109-67-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+c2Pentene,cis-2-Pentene,C5H10,627-20-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+t2Pentene,trans-2-Pentene,C5H10,0646-04-08,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x2Me1Butene,2-Methyl-1-butene,C5H10,563-46-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x3Me1Butene,3-Methyl-1-butene,C5H10,563-45-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x2Me2Butene,2-Methyl-2-butene,C5H10,513-35-9,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+CycPentane,Cyclopentane,C5H10,287-92-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+CycPentene,Cyclopentene,C5H8,142-29-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Z13Pentadiene,"(Z)-1,3-Pentadiene",C5H8,1574-41-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+E13Pentadiene,"(E)-1,3-Pentadiene",C5H8,2004-70-8,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x13Pentadienes,"Sum of (E)-1,3-Pentadiene and (Z)-1,3-Pentadiene",C5H8,504-60-9,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Isoprene,Isoprene,C5H8,78-79-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+IsopreneAndFuran,Sum of Isoprene and Furan,N/A,N/A,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nHexane,n-Hexane,C6H14,110-54-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x2MePentane,2-Methylpentane,C6H14,107-83-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x3MePentane,3-Methylpentane,C6H14,96-14-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+MePentanes,Sum of 2-Methylpentane and 3- Methylpentane,C6H14,N/A,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x22DimeButane,"2,2-Dimethylbutane",C6H14,75-83-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x23DimeButane,"2,3-Dimethylbutane",C6H14,79-29-8,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Hexene,1-Hexene,C6H12,592-41-6,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x2Me1Pentene,2-Methyl-1-pentene,C6H12,763-29-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x32Me1Pentene,3-Methyl-1-pentene,C6H12,760-20-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x4Me1Pentene,4-Methyl-1-pentene,C6H12,691-37-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x3Me1PenteneAnd4Me1 Pentene,Sum of 3-Methyl-1-pentene and 4-Methyl-1-pentene,C6H12,N/A,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x2Me2Pentene,2-Methyl-2-pentene,C6H12,625-27-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Z3Me2Pentene,(Z)-3-Methyl-2-pentene,C6H12,922-62-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+E3Me2Pentene,(E)-3-Methyl-2-pentene,C6H12,616-12-6,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x3Me2Pentenes,Sum of (Z)-3-Methyl-2-pentene and (E)-3-Methyl-2-pentene,C6H12,922-61-2,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Z4Me2Pentene,(Z)-4-Methyl-2-pentene,C6H12,691-38-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+E4Me2Pentene,(E)-4-Methyl-2-pentene,C6H12,674-76-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x4Me2Pentenes,Sum of (Z)-4-Methyl-2-pentene and (E)-4-Methyl-2-pentene,C6H12,4461-48-7,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+CycHexane,Cyclohexane,C6H12,110-82-7,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+MeCycPentane,Methylcyclopentane,C6H12,96-37-7,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nHeptane,n-Heptane,C7H16,142-82-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x2MeHexane,2-Methylhexane,C7H16,591-76-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x3MeHexane,3-Methylhexane,C7H16,589-34-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x22DimePentane,"2,2-Dimethylpentane",C7H16,590-35-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x23DimePentane,"2,3-Dimethylpentane",C7H16,565-59-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x24DimePentane,"2,4-Dimethylpentane",C7H16,108-08-07,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x33DimePentane,"3,3-Dimethylpentane",C7H16,562-49-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Heptene,1-Heptene,C7H14,592-76-7,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+MeCycHexane,Methylcyclohexane,C7H14,108-87-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nOctane,n-Octane,C8H18,111-65-9,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x224TrimePentane,"2,2,4-Trimethylpentane",C8H18,540-84-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x234TrimePentane,"2,3,4-Trimethylpentane",C8H18,565-75-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x2MeHeptane,2-Methylheptane,C8H18,592-27-8,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x3MeHeptane,3-Methylheptane,C8H18,589-81-1,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Octene,1-Octene,C8H16,111-66-0,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nNonane,n-Nonane,C9H20,111-84-2,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Nonene,1-Nonene,C9H18,124-11-8,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+aPinene,alpha-Pinene,C10H16,80-56-8,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+bPinene,beta-Pinene,C10H16,127-91-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Camphene,Camphene,C10H16,79-92-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Tricyclene,Tricyclene,C10H16,508-32-7,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+aTerpinene,alpha-Terpinene,C10H16,99-86-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+gTerpinene,gamma-Terpinene,C10H16,99-85-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Myrcene,Myrcene,C10H16,123-35-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Limonene,Sum of D-Limonene and L- Limonene,C10H16,138-86-3,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+LimoneneAndD3Carene,Sum of Limonene and Δ3- Carene,C10H16,N/A,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+bPineneAndMyrcene,Sum of beta-Pinene and Myrcene,C10H16,N/A,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Sabinene,Sabinene,C10H16,3387-41-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+dLimonene,D-Limonene,C10H16,5989-27-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Terpinolene,Terpinolene,C10H16,586-62-9,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Monoterpenes,Sum of Monoterpenes,C10H16,N/A,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nDecane,n-Decane,C10H22,124-18-5,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+x1Decene,1-Decene,C10H20,872-05-9,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nUndecane,n-Undecane,C11H24,1120-21-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+nDodecane,nDodecane,C12H26,112-40-3,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Dodecane,Sum of all dodecane isomers,C12H26,N/A,M,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+aCedrene,alpha-cedrene,C15H24,469-61-4,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+aHumulene,alpha-Humulene,C15H24,6753-98-6,S,"Hydrocarbons: Alkanes, Alkenes, and Alkynes"
+Benzene,Benzene,C6H6,71-43-2,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+Toluene,Toluene,C7H8,108-88-3,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+oXylene,o-Xylene,C8H10,95-47-6,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+mXylene,m-Xylene,C8H10,108-38-3,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+pXylene,p-Xylene,C8H10,106-42-3,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+EthBenzene,Ethylbenzene,C8H10,100-41-4,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+mpXylene,Sum of m-Xylene and p-Xylene,C8H10,N/A,M,Hydrocarbons: Aromatics and Oxygenated Aromatics
+EthBenzAndmpXylene,Sum of Ethylbenzene and mp- Xylene,C8H10,N/A,M,Hydrocarbons: Aromatics and Oxygenated Aromatics
+C8Aromatics,Sum of C8-Aromatics,C8H10,N/A,M,Hydrocarbons: Aromatics and Oxygenated Aromatics
+Styrene,Styrene,C8H8,100-42-5,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+Ethynylbenzene,Ethynylbenzene,C8H6,536-74-3,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+C9Aromatics,Sum of C9-Aromatics,C9H12,N/A,M,Hydrocarbons: Aromatics and Oxygenated Aromatics
+nPropBenzene,n-Propylbenzene,C9H12,103-65-1,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+iPropBenzene,Isopropylbenzene,C9H12,98-82-8,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+x123TrimeBenzene,"1,2,3-Trimethylbenzene",C9H12,526-73-8,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+x124TrimeBenzene,"1,2,4-Trimethylbenzene",C9H12,95-63-6,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+x135TrimeBenzene,"1,3,5-Trimethylbenzene",C9H12,108-67-8,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+x2EthToluene,2-Ethyltoluene,C9H12,611-14-3,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+x3EthToluene,3-Ethyltoluene,C9H12,620-14-4,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+x4EthToluene,4-Ethyltoluene,C9H12,622-96-8,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+pCymene,para-Cymene,C10H14,99-87-6,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+C10Aromatics,Sum of C10-Aromatics,C10H14,N/A,M,Hydrocarbons: Aromatics and Oxygenated Aromatics
+tButBenzene,tert-Butylbenzene,C10H14,98-06-6,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+nButBenzene,n-Butylbenzene,C10H14,104-51-8,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+mDiethBenzene,"1,3-Diethylbenzene",C10H14,141-93-5,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+pDiethBenzene,"1,4-Diethylbenzene",C10H14,105-05-05,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+oDiethBenzene,"1,2-Diethylbenzene",C10H14,135-01-03,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+C11Aromatics,Sum of C11-Aromatics,C11H16,N/A,M,Hydrocarbons: Aromatics and Oxygenated Aromatics
+Naphthalene,Naphthalene,C10H8,91-20-3,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+Benzaldehyde,Benzaldehyde,C7H6O,100-52-7,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+DHT,Sum of Dihydroxytoluene Isomers,C7H8O2,N/A,M,Hydrocarbons: Aromatics and Oxygenated Aromatics
+Phenol,Phenol,C6H5OH,108-95-2,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+Cresols,Sum of Cresol Isomers (Hydroxytoluenes),C7H8O,N/A,M,Hydrocarbons: Aromatics and Oxygenated Aromatics
+Creosol,Creosol,C8H10O2,93-51-6,S,Hydrocarbons: Aromatics and Oxygenated Aromatics
+CO,Carbon monoxide,CO,630-08-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CO2,Carbon dioxide,CO2,124-38-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x13CO2,13CO2-Carbon dioxide,13CO2,1111-72-4,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x14CO2,14CO2-Carbon dioxide,14CO2,51-90-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x18OCO,18OCO-Carbon dioxide,18OCO,N/A,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C3O2,Carbon suboxide,C3O2,504-64-3,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CHOCHO,Glyoxal,C2H2O2,107-22-2,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CH3COCHO,Methyl glyoxal,C3H4O2,78-98-8,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CH3OH,Methanol,CH4O,67-56-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CH2O,Formaldehyde,CH2O,50-00-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CH3OOH,Methyl hydroperoxide,CH4O2,3031-73-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+HMHP,Hydroxymethyl hydroperoxide,CH4O3,15932-89-5,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+HCOOH,Formic acid,CH2O2,64-18-6,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C2H5OH,Ethanol,C2H6O,64-17-5,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CH3CHO,Acetaldehyde,C2H4O,75-07-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Glycolaldehyde,Glycolaldehyde,C2H4O2,141-46-8,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CH3COOH,Acetic acid,C2H4O2,64-19-7,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+CH3COOHAndGlycolal dehyde,Sum of Acetic Acid and Glycolaldehyde,C2H4O2,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+MeFormate,Methyl Formate,C2H4O2,107-31-3,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+HAA,Hydroxyacetic acid; Glycolic acid,C2H4O3,2H4O3,79-14-1,Oxygenated Inorganic and Volatile Organic Carbon Species
+PAA,Peracetic Acid,C2H4O3,79-21-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+iPropanol,Isopropanol,C3H8O,67-63-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Propanal,Propanal,C3H6O,123-38-6,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Acetone,Acetone,C3H6O,67-64-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+AcetoneAndPropanal,Sum of Acetone and Propanal,C3H6O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Acrolein,Acrolein,C3H4O,107-02-08,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C3H6O2,"Sum of C3H6O2 Isomers, including Hydroxyacetone",C3H6O2,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+EthFormate,Ethyl Formate,C3H6O2,109-94-4,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+MeAcetate,Methyl acetate,C3H6O2,79-20-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C2H5COOH,Propanoic acid,C3H6O2,79-09-4,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C3H6O3,"Sum of C3H6O3 Isomers, including Hydroperoxy Acetone",C3H6O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Butanal,Butanal,C4H8O,123-72-8,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+iButanal,Isobutanal,C4H8O,78-84-2,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+MEK,Methyl Ethyl Ketone,C4H8O,78-93-3,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+THF,Tetrahydrofuran,C4H8O,109-99-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+ButanalAndMEK,Sum of Butanal and MEK,C4H8O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+C4Carbonyls,Sum of C4-Carbonyls,C4H8O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+EthAcetate,Ethyl acetate,C4H8O2,141-78-6,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+MePropionate,Methyl propionate,C4H8O2,554-12-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x14Dioxane,"1,4-Dioxane",C4H8O2,123-91-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C4H8O3,"Sum of C4H8O3 Isomers, including C4 Dihydroxy Carbonyls",C4H8O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+MAC,Methacrolein,C4H6O,78-85-3,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+MVK,Methyl Vinyl Ketone,C4H6O,78-94-4,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+MVKAndMAC,Sum of MVK and Methacrolein,C4H6O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+E2Butenal,"(E)-2-Butenal, trans- Crotonaldehyde",C4H6O,123-73-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Z2Butenal,"(Z)-2-Butenal, cis- Crotonaldehyde",C4H6O,15798-64-8,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x2Butenals,"Sum of (Z)- and (E)-2-Butenal isomers, Crotonaldehyde",C4H6O,4170-30-3,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+x23Butanedione,"2,3-Butanedione",C4H6O2,431-03-8,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C4H6O3,"Sum of C4H6O3 Isomers, including C4 Hydroxy Dicarbonyls",C4H6O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Furan,Furan,C4H4O,110-00-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x2Furanone,"2-Furanone, including 2(5H)Furanone and 2(3H)Furanone",C4H4O2,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+x23HFuranone,2(3H)-Furanone,C4H4O2,20825-71-2,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x25HFuranone,2(5H)-Furanone,C4H4O2,497-23-4,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+SuccinicAnhyd,Succinic anhydride,C4H4O3,108-30-5,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C4H4O3,Sum of C4H4O3 Isomers,C4H4O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+MaleicAnhyd,Maleic anhydride,C4H2O3,108-31-6,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+MTBE,Methyl Tert-Butyl Ether,C5H12O,1634-04-04,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+MBO,2-Methyl-3-buten-2-ol,C5H10O,115-18-4,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Pentanal,Pentanal,C5H10O,110-62-3,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x2Pentanone,2-Pentanone,C5H10O,107-87-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x3Pentanone,3-Pentanone,C5H10O,96-22-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C5Carbonyls,Sum of C5-Carbonyls,C5H10O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+ISOPOOHAndIEPOX,Sum of ISOPOOH and IEPOX,C5H10O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+IEPOX,Sum of Isoprene Epoxy Diol Isomers,C5H10O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+ISOPOOH,Sum of Isoprene Hydroxy Hydroperoxide Isomers,C5H10O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+C5H8O3,"Sum of C5O3H8 Compounds, including HPALDs Isomers",C5H8O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+x2MeFuran,2-Methylfuran,C5H6O,534-22-5,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x3MeFuran,3-Methylfuran,C5H6O,930-27-8,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x2MeFuranAnd3MeFura n,Sum of 2-methylfuran 3- methylfuran and fragments,C5H6O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Furfural,Furfural,C5H4O2,98-01-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x3Furaldehyde,3-Furaldehyde,C5H4O2,498-60-2,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+HPALDs,Sum of HPALDs,C5H8O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Hexanal,Hexanal,C6H12O,66-25-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x2Hexanone,2-Hexanone,C6H12O,591-78-6,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x3Hexanone,3-Hexanone,C6H12O,589-38-8,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C6Carbonyls,Sum of C6-Carbonyls,C6H12O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+CycHexanone,Cyclohexanone,C6H10O,108-94-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C6H10O5,Sum of Levoglucosan and other C6H10O5 species,C6H10O5,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+DimeFurans,Sum of Dimethylfurans,C6H8O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+x25DimeFuran,"2,5-dimethylfuran",C6H8O,625-86-5,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x24DimeFuran,"2,4-dimethylfuran",C6H8O,3710-43-8,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x23DimeFuran,"2,3-Dimethylfuran",C6H8O,14920-89-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x2EthFuran,2-Ethylfuran,C6H8O,3208-16-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x3EthFuran,3-Ethylfuran,C6H8O,67363-95-5,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Phenol,Phenol,C6H6O,108-95-2,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x2EthenylFuran,2-Ethenylfuran,C6H6O,1487-18-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+x3EthenylFuran,3-Ethenylfuran,C6H6O,67364-02-7,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C6H6O,Sum of Phenol and other C6H6O species,C6H6O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+x5MeFurfural,5-methylfurfural,C6H6O2,620-02-0,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Catechol,Catechol,C6H6O2,120-80-9,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C6H6O2,Sum of Catechol and other C6H6O2 species,C6H6O2,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+C6H4O3,Hydroxybenzoquinone – including any compounds that can be viewed as derivatives of a benzoquinone,C6H4O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Anisole,Anisole,C7H8O,100-66-3,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C7H8O,Sum of C7H8O Isomers,C7H8O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Guaiacol,Guaiacol,C7H8O2,90-05-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+BenzFuran,Benzofuran,C8H6O,271-89-6,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Syringol,Syringol,C8H10O3,91-10-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+C9H14O4,Sum of Pinic Acid and other C9H14O4 species,C9H14O4,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+C10H16O3,Sum of Pinonic Acid and other C10H16O3 species,C10H16O3,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Linalool,Linalool,C10H18O,78-70-6,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Terpineol,Terpineol,C10H18O,8006-39-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+aTerpineol,alpha-Terpineol,C10H18O,98-55-5,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Geraniol,Geraniol,C10H18O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+tGeraniol,trans-Geraniol,C10H18O,106-24-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+cGeraniol,cis-Geraniol,C10H18O,106-25-2,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+SabineneHydrate,Sabinene hydrate,C10H18O,546-79-2,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Borneol,Borneol,C10H18O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Pulegone,Pulegone,C10H16O,89-82-7,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+LFenchone,L-Fenchone,C10H16O,7787-20-4,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Fenchol,Fenchol,C10H16O,2217-02-09,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+Camphor,Camphor,C10H16O,N/A,M,Oxygenated Inorganic and Volatile Organic Carbon Species
+Guaiol,Guaiol,C15H26O,489-86-1,S,Oxygenated Inorganic and Volatile Organic Carbon Species
+tNeroidol,trans-Neroidol,C15H26O,40716-66-3,S,Oxygenated Inorganic and Volatile Organic Carbon Species
